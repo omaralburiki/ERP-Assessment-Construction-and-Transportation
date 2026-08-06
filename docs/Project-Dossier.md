@@ -129,7 +129,7 @@ The assessment gave management the operational visibility and documented require
 
 *Diagrams below reflect only structure confirmed in this dossier's Evidence Mapping.*
 
-### AS-IS State — Current Operating Reality
+### AS-IS State - Current Operating Reality
 
 ```mermaid
 flowchart TD
