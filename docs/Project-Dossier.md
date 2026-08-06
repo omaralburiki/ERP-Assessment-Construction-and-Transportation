@@ -10,7 +10,7 @@ A business process assessment and ERP readiness evaluation for a newly establish
 
 ## Business Context
 
-The company operates across general residential building construction, government building construction, airport construction and infrastructure, specialized transportation, intercity passenger bus transportation, and urban rail passenger transportation. As a newly established organization experiencing rapid growth and preparing to run multiple projects simultaneously, the company had no ERP system in place — business operations ran on Microsoft Excel, Outlook, WhatsApp, paper-based forms, and shared folders. Management commissioned this assessment to evaluate readiness before committing to an ERP platform.
+The company operates across general residential building construction, government building construction, airport construction and infrastructure, specialized transportation, intercity passenger bus transportation, and urban rail passenger transportation. As a newly established organization experiencing rapid growth and preparing to run multiple projects simultaneously, the company had no ERP system in place business operations ran on Microsoft Excel, Outlook, WhatsApp, paper-based forms, and shared folders. Management commissioned this assessment to evaluate readiness before committing to an ERP platform.
 
 ---
 
