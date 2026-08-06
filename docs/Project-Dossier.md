@@ -114,7 +114,8 @@ The phasing reflects prioritizing core financial, procurement, and project cost 
 
 ## Current Status
 
-The readiness assessment and diagnostic phase is **complete**, with all deliverables above produced and presented to management. **The ERP system itself has not yet been selected, configured, or implemented.** Vendor evaluation support is part of the ongoing scope of this role, but no vendor has been confirmed as selected as of this writing. This project should be read as a completed diagnostic engagement feeding into a not-yet-started implementation not as a completed ERP implementation.
+The readiness assessment and diagnostic phase is **complete**, with all deliverables above produced and presented to management.
+**The ERP system itself has not yet been selected, configured, or implemented.** Vendor evaluation support is part of the ongoing scope of this role, but no vendor has been confirmed as selected as of this writing. This project should be read as a completed diagnostic engagement feeding into a not-yet-started implementation not as a completed ERP implementation.
 
 ---
 
