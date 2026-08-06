@@ -1,4 +1,4 @@
-# ERP Readiness Assessment — Construction & Transportation
+# ERP Readiness Assessment - Construction & Transportation
 
 Business process assessment and ERP readiness evaluation for a newly established general contracting and transportation company, across eight functional departments.
 
