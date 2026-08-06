@@ -12,7 +12,7 @@ A business process assessment and ERP readiness evaluation for a newly establish
 
 ## Business Context
 
-The company operates across general residential building construction, government building construction, airport construction and infrastructure, specialized transportation, intercity passenger bus transportation, and urban rail passenger transportation. As a newly established, rapidly growing organization preparing to run multiple projects simultaneously, the company had no ERP system in place — operations ran on Excel, Outlook, WhatsApp, paper-based forms, and shared folders.
+The company operates across general residential building construction, government building construction, airport construction and infrastructure, specialized transportation, intercity passenger bus transportation, and urban rail passenger transportation. As a newly established, rapidly growing organization preparing to run multiple projects simultaneously, the company had no ERP system in place operations ran on Excel, Outlook, WhatsApp, paper-based forms, and shared folders.
 
 ---
 
@@ -42,7 +42,7 @@ Departments operated independently with no centralized business database, result
 
 ## My Role
 
-**Business Systems Analyst** — represented the business side throughout the assessment: conducting stakeholder interviews, facilitating requirements workshops, documenting AS-IS processes, designing TO-BE workflows, performing gap analysis, preparing the BRD, recommending ERP functional modules, supporting vendor evaluation, and presenting findings to management.
+**Business Systems Analyst** represented the business side throughout the assessment: conducting stakeholder interviews, facilitating requirements workshops, documenting AS-IS processes, designing TO-BE workflows, performing gap analysis, preparing the BRD, recommending ERP functional modules, supporting vendor evaluation, and presenting findings to management.
 
 ---
 
@@ -73,8 +73,8 @@ ERP Readiness Assessment · Stakeholder Interviewing · AS-IS/TO-BE Process Docu
 
 ## Full Documentation
 
-The complete project dossier — including department-by-department findings, the phased ERP functional scope, and evidence mapping — is available at:
+The complete project dossier including department-by-department findings, the phased ERP functional scope, and evidence mapping is available at:
 
-**[...........)**
+**https://github.com/omaralburiki/ERP-Readiness-Assessment---Construction-Transportation/blob/main/docs/Project-Dossier.md**
 
----
+
